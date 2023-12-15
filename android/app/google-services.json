@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567858711429",
+    "project_id": "foodapp-cbaff",
+    "storage_bucket": "foodapp-cbaff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567858711429:android:cfbc972a400958f72712ec",
+        "android_client_info": {
+          "package_name": "com.example.food_app_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ZV4AQQ8HjVPsflFhg0y_GotYCQ9YbQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
